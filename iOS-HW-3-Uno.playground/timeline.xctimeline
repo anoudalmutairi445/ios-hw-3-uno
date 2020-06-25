@@ -3,63 +3,531 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/omaralibrahim/Desktop/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=1061&amp;CharacterRangeLoc=1097&amp;EndingColumnNumber=0&amp;EndingLineNumber=79&amp;StartingColumnNumber=0&amp;StartingLineNumber=43&amp;Timestamp=614645435.272972"
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=5842&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=189&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=614815178.162297"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/omaralibrahim/Desktop/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=1061&amp;CharacterRangeLoc=1097&amp;EndingColumnNumber=0&amp;EndingLineNumber=79&amp;StartingColumnNumber=0&amp;StartingLineNumber=43&amp;Timestamp=614645435.273118"
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=5842&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=189&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=614815178.162616"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/omaralibrahim/Desktop/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=1061&amp;CharacterRangeLoc=1097&amp;EndingColumnNumber=0&amp;EndingLineNumber=79&amp;StartingColumnNumber=0&amp;StartingLineNumber=43&amp;Timestamp=614645435.2733409"
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=5842&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=189&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=614815178.1628799"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/omaralibrahim/Desktop/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=1061&amp;CharacterRangeLoc=1097&amp;EndingColumnNumber=0&amp;EndingLineNumber=79&amp;StartingColumnNumber=0&amp;StartingLineNumber=43&amp;Timestamp=614645435.273472"
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=5842&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=189&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=614815178.163041"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/omaralibrahim/Desktop/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=1061&amp;CharacterRangeLoc=1097&amp;EndingColumnNumber=0&amp;EndingLineNumber=79&amp;StartingColumnNumber=0&amp;StartingLineNumber=43&amp;Timestamp=614645435.273572"
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=5842&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=189&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=614815178.163173"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/omaralibrahim/Desktop/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=10&amp;CharacterRangeLoc=2486&amp;EndingColumnNumber=0&amp;EndingLineNumber=105&amp;StartingColumnNumber=3&amp;StartingLineNumber=104&amp;Timestamp=614645435.273676"
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=5842&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=189&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=614815178.1633101"
          lockedSize = "{175, 636}"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/omaralibrahim/Desktop/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=68&amp;CharacterRangeLoc=2335&amp;EndingColumnNumber=2&amp;EndingLineNumber=101&amp;StartingColumnNumber=0&amp;StartingLineNumber=99&amp;Timestamp=614645435.2737809"
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=5842&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=189&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=614815178.163449"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/omaralibrahim/Desktop/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=9&amp;CharacterRangeLoc=1053&amp;EndingColumnNumber=14&amp;EndingLineNumber=41&amp;StartingColumnNumber=5&amp;StartingLineNumber=41&amp;Timestamp=614645435.273882"
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=5842&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=189&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=614815178.163605"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/omaralibrahim/Desktop/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=10&amp;CharacterRangeLoc=1003&amp;EndingColumnNumber=15&amp;EndingLineNumber=40&amp;StartingColumnNumber=5&amp;StartingLineNumber=40&amp;Timestamp=614645435.27398"
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=5842&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=189&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=614815178.163741"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/omaralibrahim/Desktop/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=5&amp;CharacterRangeLoc=962&amp;EndingColumnNumber=10&amp;EndingLineNumber=38&amp;StartingColumnNumber=5&amp;StartingLineNumber=38&amp;Timestamp=614645435.274075"
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=5842&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=189&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=614815178.163877"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/omaralibrahim/Desktop/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=920&amp;EndingColumnNumber=11&amp;EndingLineNumber=37&amp;StartingColumnNumber=5&amp;StartingLineNumber=37&amp;Timestamp=614645435.2741801"
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=5842&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=189&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=614815178.164243"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/omaralibrahim/Desktop/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=17&amp;CharacterRangeLoc=2468&amp;EndingColumnNumber=2&amp;EndingLineNumber=104&amp;StartingColumnNumber=3&amp;StartingLineNumber=103&amp;Timestamp=614645435.274278"
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=5842&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=189&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=614815178.1645499"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=2385&amp;EndingColumnNumber=19&amp;EndingLineNumber=100&amp;StartingColumnNumber=13&amp;StartingLineNumber=100&amp;Timestamp=614815178.164886"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=2335&amp;EndingColumnNumber=19&amp;EndingLineNumber=99&amp;StartingColumnNumber=13&amp;StartingLineNumber=99&amp;Timestamp=614815178.165139"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=2435&amp;EndingColumnNumber=19&amp;EndingLineNumber=101&amp;StartingColumnNumber=13&amp;StartingLineNumber=101&amp;Timestamp=614815178.165365"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=2485&amp;EndingColumnNumber=19&amp;EndingLineNumber=102&amp;StartingColumnNumber=13&amp;StartingLineNumber=102&amp;Timestamp=614815178.165601"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=4&amp;CharacterRangeLoc=5085&amp;EndingColumnNumber=17&amp;EndingLineNumber=151&amp;StartingColumnNumber=13&amp;StartingLineNumber=151&amp;Timestamp=614815178.165818"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=9&amp;CharacterRangeLoc=5029&amp;EndingColumnNumber=22&amp;EndingLineNumber=150&amp;StartingColumnNumber=13&amp;StartingLineNumber=150&amp;Timestamp=614815178.165952"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=14&amp;CharacterRangeLoc=4964&amp;EndingColumnNumber=26&amp;EndingLineNumber=149&amp;StartingColumnNumber=12&amp;StartingLineNumber=149&amp;Timestamp=614815178.166122"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=11&amp;CharacterRangeLoc=4906&amp;EndingColumnNumber=23&amp;EndingLineNumber=148&amp;StartingColumnNumber=12&amp;StartingLineNumber=148&amp;Timestamp=614815178.1663229"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=11&amp;CharacterRangeLoc=4848&amp;EndingColumnNumber=23&amp;EndingLineNumber=147&amp;StartingColumnNumber=12&amp;StartingLineNumber=147&amp;Timestamp=614815178.166517"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=4796&amp;EndingColumnNumber=20&amp;EndingLineNumber=146&amp;StartingColumnNumber=12&amp;StartingLineNumber=146&amp;Timestamp=614815178.1667449"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=4744&amp;EndingColumnNumber=20&amp;EndingLineNumber=145&amp;StartingColumnNumber=12&amp;StartingLineNumber=145&amp;Timestamp=614815178.166871"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=4692&amp;EndingColumnNumber=20&amp;EndingLineNumber=144&amp;StartingColumnNumber=12&amp;StartingLineNumber=144&amp;Timestamp=614815178.1669919"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=4640&amp;EndingColumnNumber=20&amp;EndingLineNumber=143&amp;StartingColumnNumber=12&amp;StartingLineNumber=143&amp;Timestamp=614815178.1671129"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=4588&amp;EndingColumnNumber=20&amp;EndingLineNumber=142&amp;StartingColumnNumber=12&amp;StartingLineNumber=142&amp;Timestamp=614815178.16723"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=4536&amp;EndingColumnNumber=20&amp;EndingLineNumber=141&amp;StartingColumnNumber=12&amp;StartingLineNumber=141&amp;Timestamp=614815178.167363"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=4484&amp;EndingColumnNumber=20&amp;EndingLineNumber=140&amp;StartingColumnNumber=12&amp;StartingLineNumber=140&amp;Timestamp=614815178.1674809"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=4432&amp;EndingColumnNumber=20&amp;EndingLineNumber=139&amp;StartingColumnNumber=12&amp;StartingLineNumber=139&amp;Timestamp=614815178.167616"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=4380&amp;EndingColumnNumber=20&amp;EndingLineNumber=138&amp;StartingColumnNumber=12&amp;StartingLineNumber=138&amp;Timestamp=614815178.167745"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=4328&amp;EndingColumnNumber=20&amp;EndingLineNumber=137&amp;StartingColumnNumber=12&amp;StartingLineNumber=137&amp;Timestamp=614815178.167902"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=12&amp;CharacterRangeLoc=4268&amp;EndingColumnNumber=24&amp;EndingLineNumber=136&amp;StartingColumnNumber=12&amp;StartingLineNumber=136&amp;Timestamp=614815178.168082"
+         lockedSize = "{175, 155}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=9&amp;CharacterRangeLoc=4214&amp;EndingColumnNumber=21&amp;EndingLineNumber=135&amp;StartingColumnNumber=12&amp;StartingLineNumber=135&amp;Timestamp=614815178.168216"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=9&amp;CharacterRangeLoc=4160&amp;EndingColumnNumber=21&amp;EndingLineNumber=134&amp;StartingColumnNumber=12&amp;StartingLineNumber=134&amp;Timestamp=614815178.168337"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=4112&amp;EndingColumnNumber=18&amp;EndingLineNumber=133&amp;StartingColumnNumber=12&amp;StartingLineNumber=133&amp;Timestamp=614815178.1684591"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=4064&amp;EndingColumnNumber=18&amp;EndingLineNumber=132&amp;StartingColumnNumber=12&amp;StartingLineNumber=132&amp;Timestamp=614815178.168593"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=4016&amp;EndingColumnNumber=18&amp;EndingLineNumber=131&amp;StartingColumnNumber=12&amp;StartingLineNumber=131&amp;Timestamp=614815178.16871"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=3968&amp;EndingColumnNumber=18&amp;EndingLineNumber=130&amp;StartingColumnNumber=12&amp;StartingLineNumber=130&amp;Timestamp=614815178.168824"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=3920&amp;EndingColumnNumber=18&amp;EndingLineNumber=129&amp;StartingColumnNumber=12&amp;StartingLineNumber=129&amp;Timestamp=614815178.168952"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=3872&amp;EndingColumnNumber=18&amp;EndingLineNumber=128&amp;StartingColumnNumber=12&amp;StartingLineNumber=128&amp;Timestamp=614815178.169071"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=3824&amp;EndingColumnNumber=18&amp;EndingLineNumber=127&amp;StartingColumnNumber=12&amp;StartingLineNumber=127&amp;Timestamp=614815178.1691869"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=3776&amp;EndingColumnNumber=18&amp;EndingLineNumber=126&amp;StartingColumnNumber=12&amp;StartingLineNumber=126&amp;Timestamp=614815178.169301"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=3728&amp;EndingColumnNumber=18&amp;EndingLineNumber=125&amp;StartingColumnNumber=12&amp;StartingLineNumber=125&amp;Timestamp=614815178.1694191"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=3680&amp;EndingColumnNumber=18&amp;EndingLineNumber=124&amp;StartingColumnNumber=12&amp;StartingLineNumber=124&amp;Timestamp=614815178.169668"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=15&amp;CharacterRangeLoc=3614&amp;EndingColumnNumber=27&amp;EndingLineNumber=123&amp;StartingColumnNumber=12&amp;StartingLineNumber=123&amp;Timestamp=614815178.169806"
+         lockedSize = "{176, 155}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=12&amp;CharacterRangeLoc=3554&amp;EndingColumnNumber=24&amp;EndingLineNumber=122&amp;StartingColumnNumber=12&amp;StartingLineNumber=122&amp;Timestamp=614815178.16994"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=12&amp;CharacterRangeLoc=3494&amp;EndingColumnNumber=24&amp;EndingLineNumber=121&amp;StartingColumnNumber=12&amp;StartingLineNumber=121&amp;Timestamp=614815178.170175"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=9&amp;CharacterRangeLoc=3440&amp;EndingColumnNumber=21&amp;EndingLineNumber=120&amp;StartingColumnNumber=12&amp;StartingLineNumber=120&amp;Timestamp=614815178.170377"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=9&amp;CharacterRangeLoc=3386&amp;EndingColumnNumber=21&amp;EndingLineNumber=119&amp;StartingColumnNumber=12&amp;StartingLineNumber=119&amp;Timestamp=614815178.170566"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=9&amp;CharacterRangeLoc=3332&amp;EndingColumnNumber=21&amp;EndingLineNumber=118&amp;StartingColumnNumber=12&amp;StartingLineNumber=118&amp;Timestamp=614815178.170752"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=9&amp;CharacterRangeLoc=3278&amp;EndingColumnNumber=21&amp;EndingLineNumber=117&amp;StartingColumnNumber=12&amp;StartingLineNumber=117&amp;Timestamp=614815178.170944"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=9&amp;CharacterRangeLoc=3224&amp;EndingColumnNumber=21&amp;EndingLineNumber=116&amp;StartingColumnNumber=12&amp;StartingLineNumber=116&amp;Timestamp=614815178.171126"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=9&amp;CharacterRangeLoc=3170&amp;EndingColumnNumber=21&amp;EndingLineNumber=115&amp;StartingColumnNumber=12&amp;StartingLineNumber=115&amp;Timestamp=614815178.171311"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=9&amp;CharacterRangeLoc=3116&amp;EndingColumnNumber=21&amp;EndingLineNumber=114&amp;StartingColumnNumber=12&amp;StartingLineNumber=114&amp;Timestamp=614815178.1715"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=9&amp;CharacterRangeLoc=3062&amp;EndingColumnNumber=21&amp;EndingLineNumber=113&amp;StartingColumnNumber=12&amp;StartingLineNumber=113&amp;Timestamp=614815178.171801"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=9&amp;CharacterRangeLoc=3008&amp;EndingColumnNumber=21&amp;EndingLineNumber=112&amp;StartingColumnNumber=12&amp;StartingLineNumber=112&amp;Timestamp=614815178.172249"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=12&amp;CharacterRangeLoc=2947&amp;EndingColumnNumber=25&amp;EndingLineNumber=111&amp;StartingColumnNumber=13&amp;StartingLineNumber=111&amp;Timestamp=614815178.1725791"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=9&amp;CharacterRangeLoc=2891&amp;EndingColumnNumber=22&amp;EndingLineNumber=110&amp;StartingColumnNumber=13&amp;StartingLineNumber=110&amp;Timestamp=614815178.173036"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=9&amp;CharacterRangeLoc=2835&amp;EndingColumnNumber=22&amp;EndingLineNumber=109&amp;StartingColumnNumber=13&amp;StartingLineNumber=109&amp;Timestamp=614815178.173273"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=2785&amp;EndingColumnNumber=19&amp;EndingLineNumber=108&amp;StartingColumnNumber=13&amp;StartingLineNumber=108&amp;Timestamp=614815178.173501"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=2735&amp;EndingColumnNumber=19&amp;EndingLineNumber=107&amp;StartingColumnNumber=13&amp;StartingLineNumber=107&amp;Timestamp=614815178.17373"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=2685&amp;EndingColumnNumber=19&amp;EndingLineNumber=106&amp;StartingColumnNumber=13&amp;StartingLineNumber=106&amp;Timestamp=614815178.173945"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=2635&amp;EndingColumnNumber=19&amp;EndingLineNumber=105&amp;StartingColumnNumber=13&amp;StartingLineNumber=105&amp;Timestamp=614815178.174165"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=2585&amp;EndingColumnNumber=19&amp;EndingLineNumber=104&amp;StartingColumnNumber=13&amp;StartingLineNumber=104&amp;Timestamp=614815178.1743931"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=2535&amp;EndingColumnNumber=19&amp;EndingLineNumber=103&amp;StartingColumnNumber=13&amp;StartingLineNumber=103&amp;Timestamp=614815178.174616"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=13&amp;CharacterRangeLoc=4965&amp;EndingColumnNumber=26&amp;EndingLineNumber=149&amp;StartingColumnNumber=13&amp;StartingLineNumber=149&amp;Timestamp=614815178.174831"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=10&amp;CharacterRangeLoc=4907&amp;EndingColumnNumber=23&amp;EndingLineNumber=148&amp;StartingColumnNumber=13&amp;StartingLineNumber=148&amp;Timestamp=614815178.1750439"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=10&amp;CharacterRangeLoc=4849&amp;EndingColumnNumber=23&amp;EndingLineNumber=147&amp;StartingColumnNumber=13&amp;StartingLineNumber=147&amp;Timestamp=614815178.1753449"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=7&amp;CharacterRangeLoc=4797&amp;EndingColumnNumber=20&amp;EndingLineNumber=146&amp;StartingColumnNumber=13&amp;StartingLineNumber=146&amp;Timestamp=614815178.175613"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=7&amp;CharacterRangeLoc=4745&amp;EndingColumnNumber=20&amp;EndingLineNumber=145&amp;StartingColumnNumber=13&amp;StartingLineNumber=145&amp;Timestamp=614815178.175858"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=7&amp;CharacterRangeLoc=4693&amp;EndingColumnNumber=20&amp;EndingLineNumber=144&amp;StartingColumnNumber=13&amp;StartingLineNumber=144&amp;Timestamp=614815178.1760989"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=7&amp;CharacterRangeLoc=4641&amp;EndingColumnNumber=20&amp;EndingLineNumber=143&amp;StartingColumnNumber=13&amp;StartingLineNumber=143&amp;Timestamp=614815178.176337"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=7&amp;CharacterRangeLoc=4589&amp;EndingColumnNumber=20&amp;EndingLineNumber=142&amp;StartingColumnNumber=13&amp;StartingLineNumber=142&amp;Timestamp=614815178.176571"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=7&amp;CharacterRangeLoc=4537&amp;EndingColumnNumber=20&amp;EndingLineNumber=141&amp;StartingColumnNumber=13&amp;StartingLineNumber=141&amp;Timestamp=614815178.176802"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=7&amp;CharacterRangeLoc=4485&amp;EndingColumnNumber=20&amp;EndingLineNumber=140&amp;StartingColumnNumber=13&amp;StartingLineNumber=140&amp;Timestamp=614815178.1770999"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=7&amp;CharacterRangeLoc=4433&amp;EndingColumnNumber=20&amp;EndingLineNumber=139&amp;StartingColumnNumber=13&amp;StartingLineNumber=139&amp;Timestamp=614815178.177389"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=7&amp;CharacterRangeLoc=4381&amp;EndingColumnNumber=20&amp;EndingLineNumber=138&amp;StartingColumnNumber=13&amp;StartingLineNumber=138&amp;Timestamp=614815178.177869"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=7&amp;CharacterRangeLoc=4329&amp;EndingColumnNumber=20&amp;EndingLineNumber=137&amp;StartingColumnNumber=13&amp;StartingLineNumber=137&amp;Timestamp=614815178.178841"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=11&amp;CharacterRangeLoc=4269&amp;EndingColumnNumber=24&amp;EndingLineNumber=136&amp;StartingColumnNumber=13&amp;StartingLineNumber=136&amp;Timestamp=614815178.179112"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=4215&amp;EndingColumnNumber=21&amp;EndingLineNumber=135&amp;StartingColumnNumber=13&amp;StartingLineNumber=135&amp;Timestamp=614815178.179399"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=4161&amp;EndingColumnNumber=21&amp;EndingLineNumber=134&amp;StartingColumnNumber=13&amp;StartingLineNumber=134&amp;Timestamp=614815178.179599"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=5&amp;CharacterRangeLoc=4113&amp;EndingColumnNumber=18&amp;EndingLineNumber=133&amp;StartingColumnNumber=13&amp;StartingLineNumber=133&amp;Timestamp=614815178.17979"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=5&amp;CharacterRangeLoc=4065&amp;EndingColumnNumber=18&amp;EndingLineNumber=132&amp;StartingColumnNumber=13&amp;StartingLineNumber=132&amp;Timestamp=614815178.1800489"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=5&amp;CharacterRangeLoc=4017&amp;EndingColumnNumber=18&amp;EndingLineNumber=131&amp;StartingColumnNumber=13&amp;StartingLineNumber=131&amp;Timestamp=614815178.180305"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=5&amp;CharacterRangeLoc=3969&amp;EndingColumnNumber=18&amp;EndingLineNumber=130&amp;StartingColumnNumber=13&amp;StartingLineNumber=130&amp;Timestamp=614815178.180506"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=5&amp;CharacterRangeLoc=3921&amp;EndingColumnNumber=18&amp;EndingLineNumber=129&amp;StartingColumnNumber=13&amp;StartingLineNumber=129&amp;Timestamp=614815178.180712"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=5&amp;CharacterRangeLoc=3873&amp;EndingColumnNumber=18&amp;EndingLineNumber=128&amp;StartingColumnNumber=13&amp;StartingLineNumber=128&amp;Timestamp=614815178.180933"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=5&amp;CharacterRangeLoc=3825&amp;EndingColumnNumber=18&amp;EndingLineNumber=127&amp;StartingColumnNumber=13&amp;StartingLineNumber=127&amp;Timestamp=614815178.181125"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=5&amp;CharacterRangeLoc=3777&amp;EndingColumnNumber=18&amp;EndingLineNumber=126&amp;StartingColumnNumber=13&amp;StartingLineNumber=126&amp;Timestamp=614815178.181374"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=5&amp;CharacterRangeLoc=3729&amp;EndingColumnNumber=18&amp;EndingLineNumber=125&amp;StartingColumnNumber=13&amp;StartingLineNumber=125&amp;Timestamp=614815178.181568"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=5&amp;CharacterRangeLoc=3681&amp;EndingColumnNumber=18&amp;EndingLineNumber=124&amp;StartingColumnNumber=13&amp;StartingLineNumber=124&amp;Timestamp=614815178.181767"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=14&amp;CharacterRangeLoc=3615&amp;EndingColumnNumber=27&amp;EndingLineNumber=123&amp;StartingColumnNumber=13&amp;StartingLineNumber=123&amp;Timestamp=614815178.18199"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=11&amp;CharacterRangeLoc=3555&amp;EndingColumnNumber=24&amp;EndingLineNumber=122&amp;StartingColumnNumber=13&amp;StartingLineNumber=122&amp;Timestamp=614815178.182178"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=11&amp;CharacterRangeLoc=3495&amp;EndingColumnNumber=24&amp;EndingLineNumber=121&amp;StartingColumnNumber=13&amp;StartingLineNumber=121&amp;Timestamp=614815178.1824059"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=3441&amp;EndingColumnNumber=21&amp;EndingLineNumber=120&amp;StartingColumnNumber=13&amp;StartingLineNumber=120&amp;Timestamp=614815178.1825449"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=3387&amp;EndingColumnNumber=21&amp;EndingLineNumber=119&amp;StartingColumnNumber=13&amp;StartingLineNumber=119&amp;Timestamp=614815178.182669"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=3333&amp;EndingColumnNumber=21&amp;EndingLineNumber=118&amp;StartingColumnNumber=13&amp;StartingLineNumber=118&amp;Timestamp=614815178.182793"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=3279&amp;EndingColumnNumber=21&amp;EndingLineNumber=117&amp;StartingColumnNumber=13&amp;StartingLineNumber=117&amp;Timestamp=614815178.182937"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=3225&amp;EndingColumnNumber=21&amp;EndingLineNumber=116&amp;StartingColumnNumber=13&amp;StartingLineNumber=116&amp;Timestamp=614815178.183058"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=3171&amp;EndingColumnNumber=21&amp;EndingLineNumber=115&amp;StartingColumnNumber=13&amp;StartingLineNumber=115&amp;Timestamp=614815178.1831861"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=3117&amp;EndingColumnNumber=21&amp;EndingLineNumber=114&amp;StartingColumnNumber=13&amp;StartingLineNumber=114&amp;Timestamp=614815178.183306"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=3009&amp;EndingColumnNumber=21&amp;EndingLineNumber=112&amp;StartingColumnNumber=13&amp;StartingLineNumber=112&amp;Timestamp=614815178.183423"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=3063&amp;EndingColumnNumber=21&amp;EndingLineNumber=113&amp;StartingColumnNumber=13&amp;StartingLineNumber=113&amp;Timestamp=614815178.183547"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=10&amp;CharacterRangeLoc=5659&amp;EndingColumnNumber=15&amp;EndingLineNumber=182&amp;StartingColumnNumber=5&amp;StartingLineNumber=182&amp;Timestamp=614815178.183684"
+         lockedSize = "{178, 128}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/an_almutairi23/Documents/GitHub/ios-hw-3-uno/iOS-HW-3-Uno.playground#CharacterRangeLen=15&amp;CharacterRangeLoc=5699&amp;EndingColumnNumber=20&amp;EndingLineNumber=183&amp;StartingColumnNumber=5&amp;StartingLineNumber=183&amp;Timestamp=614815178.183833"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
